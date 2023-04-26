@@ -1,0 +1,10 @@
+c:\users\oo113\documents\visual studio 2012\Projects\User Control Panel Acitivity\User Control Panel Acitivity\bin\Debug\User Control Panel Acitivity.exe.config
+c:\users\oo113\documents\visual studio 2012\Projects\User Control Panel Acitivity\User Control Panel Acitivity\bin\Debug\User Control Panel Acitivity.exe
+c:\users\oo113\documents\visual studio 2012\Projects\User Control Panel Acitivity\User Control Panel Acitivity\bin\Debug\User Control Panel Acitivity.pdb
+c:\users\oo113\documents\visual studio 2012\Projects\User Control Panel Acitivity\User Control Panel Acitivity\obj\Debug\User_Control_Panel_Acitivity.Form1.resources
+c:\users\oo113\documents\visual studio 2012\Projects\User Control Panel Acitivity\User Control Panel Acitivity\obj\Debug\User_Control_Panel_Acitivity.Panel1.resources
+c:\users\oo113\documents\visual studio 2012\Projects\User Control Panel Acitivity\User Control Panel Acitivity\obj\Debug\User_Control_Panel_Acitivity.Properties.Resources.resources
+c:\users\oo113\documents\visual studio 2012\Projects\User Control Panel Acitivity\User Control Panel Acitivity\obj\Debug\User Control Panel Acitivity.csproj.GenerateResource.Cache
+c:\users\oo113\documents\visual studio 2012\Projects\User Control Panel Acitivity\User Control Panel Acitivity\obj\Debug\User Control Panel Acitivity.exe
+c:\users\oo113\documents\visual studio 2012\Projects\User Control Panel Acitivity\User Control Panel Acitivity\obj\Debug\User Control Panel Acitivity.pdb
+c:\users\oo113\documents\visual studio 2012\Projects\User Control Panel Acitivity\User Control Panel Acitivity\obj\Debug\User_Control_Panel_Acitivity.Panel2.resources
